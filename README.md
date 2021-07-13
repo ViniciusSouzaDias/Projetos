@@ -1,2 +1,2 @@
 # Projetos
- sites de estudo
+ Repositorio criado para estudo de desenvolvimento WEB
